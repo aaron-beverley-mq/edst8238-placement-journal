@@ -1,0 +1,78 @@
+site_name: EDST8238 Aaron's Placement Portfolio
+theme:
+  name: material
+  features: 
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: teal
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: teal
+      accent: lime
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - tables
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - md_in_html
+
+nav:
+  - index.md
+  - Preparations:
+    - 'preparations/planning.md'
+    - 'preparations/paperwork.md'
+    - 'preparations/timetable.md'
+    - 'preparations/expectations.md'
+
+  - Standards:
+    - 'standards/standard1.md'
+    - 'standards/standard2.md'
+    - 'standards/standard3.md'
+    - 'standards/standard4.md'
+    - 'standards/standard5.md'
+    - 'standards/standard6.md'
+    - 'standards/standard7.md'
+  - CT Lesson Plans:
+    - lesson_plans/9COT1/overview.md
+    - lesson_plans/9COT1/lesson1.md
+  - ICT Lesson Plans:
+    - lesson_plans/10IST2/overview.md
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/aaron-beverley-mq" target="_blank" rel="noopener">Aaron Beverley</a>
