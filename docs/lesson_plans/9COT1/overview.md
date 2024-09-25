@@ -47,11 +47,13 @@
 | Lesson | Description |
 | ---- | ---- |
 | [L1](lesson1.md)           | PreTest + Data collection                                          |
-| [[#L2]]                    | Social, Ethical and Legal considerations for data                  |
-| [[#L3 Data Discovery\|L3]] | Data Discovery, what data can I find about myself on the Internet? |
 | [[#L4]]                    | Introduction to Database Systems                                   |
 | L5                         | Database v Spreadsheet comparison using Data collection            |
+| [[#L2]]                    | Social, Ethical and Legal considerations for data                  |
+| [[#L3 Data Discovery\|L3]] | Data Discovery, what data can I find about myself on the Internet? |
 | L6                         | Building a database                                                |
+| L6                         | Database design     (eg. concert ticket, person, place, thing)   entity, relationships                              |
+| L6                         | Database design     (eg. concert ticket, person, place, thing)   entity, relationships                              |
 | L7                         | Data Analysis 1                                                    |
 | L8                         | Data Analysis 2                                                    |
 | L9                         | Complex Data analysis 1                                            |
