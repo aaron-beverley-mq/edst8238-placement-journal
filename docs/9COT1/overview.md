@@ -42,34 +42,33 @@
 ### Resources
 - https://sqliteonline.com/
 - https://sqliteviz.com/
+- Grover, D., & Carr, L. (2023). Computing Technology: A project-based approach. Nelson.
 
 ## Lessons
 | Lesson | Description |
 | ---- | ---- |
-| [L1](lesson1.md)           | PreTest + Data collection                                          |
-| [[#L4]]                    | Introduction to Database Systems                                   |
-| L5                         | Database v Spreadsheet comparison using Data collection            |
-| [[#L2]]                    | Social, Ethical and Legal considerations for data                  |
-| [[#L3 Data Discovery\|L3]] | Data Discovery, what data can I find about myself on the Internet? |
-| L6                         | Building a database                                                |
-| L6                         | Database design     (eg. concert ticket, person, place, thing)   entity, relationships                              |
-| L6                         | Database design     (eg. concert ticket, person, place, thing)   entity, relationships                              |
-| L7                         | Data Analysis 1                                                    |
-| L8                         | Data Analysis 2                                                    |
-| L9                         | Complex Data analysis 1                                            |
-| L10                        | Complex Data analysis 2                                            |
-| L11                        | Data query game                                                    |
-| L12                        | Presenting Information                                             |
-| L13                        | Visualisation 1                                                    |
-| L14                        | Visualisation 2                                                    |
-| L15                        | Work on Portfolio                                                  |
-| L16                        | WoP                                                                |
-| L17                        | WoP                                                                |
-| L18                        | WoP                                                                |
-| L19                        | WoP                                                                |
-| L20                        | WoP                                                                |
-| L21                        | WoP                                                                |
-| L22                        | WoP                                                                |
-| L23                        | WoP                                                                |
-| L24                        | Work on Portfolio                                                  |
-| L25                        | Post Test + Review of Learning                                     |
+| [L1](lesson1.md)    | PreTest + Data collection                                          |
+| [L2](lesson2.md)    | Introduction to Database Systems                                   |
+| [L3](lesson3.md)    | Database v Spreadsheet comparison using Data collection            |
+| [L4](lesson4.md)    | Social, Ethical and Legal considerations for data                  |
+| [L5](lesson5.md)    | Data Discovery, what data can I find about myself on the Internet? |
+| [L6](lesson6.md)    | Building a database                                                |
+| [L7](lesson7.md)    | Database design     (eg. concert ticket, person, place, thing)   entity, relationships                              |
+| [L8](lesson8.md)    | Database design     (eg. concert ticket, person, place, thing)   entity, relationships                              |
+| [L9](lesson9.md)    | Data Analysis 1                                                    |
+| [L10](lesson10.md)  | Data Analysis 2                                                    |
+| [L11](lesson11.md)  | Complex Data analysis 1                                            |
+| [L12](lesson12.md)  | Complex Data analysis 2                                            |
+| [L13](lesson13.md)  | Data query game                                                    |
+| [L14](lesson14.md)  | Presenting Information                                             |
+| [L15](lesson15.md)  | Visualisation 1                                                    |
+| [L16](lesson16.md)  | Visualisation 2                                                    |
+| [L17](lesson17.md)  | Portfolio Planning                                                 |
+| [L18](lesson18.md)  | Work on Portfolio                                                  |
+| [L19](lesson19.md)  | WoP                                                                |
+| [L20](lesson20.md)  | WoP                                                                |
+| [L21](lesson21.md)  | WoP                                                                |
+| [L22](lesson22.md)  | WoP                                                                |
+| [L23](lesson23.md)  | WoP                                                                |
+| [L24](lesson24.md)  | Work on Portfolio                                                  |
+| [L25](lesson25.md)  | Post Test + Review of Learning                                     |

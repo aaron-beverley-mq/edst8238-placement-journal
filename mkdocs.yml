@@ -55,9 +55,8 @@ markdown_extensions:
 nav:
   - index.md
   - Preparations:
-    - 'preparations/planning.md'
-    - 'preparations/paperwork.md'
     - 'preparations/timetable.md'
+    - 'preparations/paperwork.md'
     - 'preparations/expectations.md'
   - Standards:
     - 'standards/standard1.md'
@@ -71,6 +70,30 @@ nav:
     - '9COT1/overview.md'
     - '9COT1/lesson-plans.md'
     - '9COT1/lesson1.md'
+    - '9COT1/lesson2.md'
+    - '9COT1/lesson3.md'
+    - '9COT1/lesson4.md'
+    - '9COT1/lesson5.md'
+    - '9COT1/lesson6.md'
+    - '9COT1/lesson7.md'
+    - '9COT1/lesson8.md'
+    - '9COT1/lesson9.md'
+    - '9COT1/lesson10.md'
+    - '9COT1/lesson11.md'
+    - '9COT1/lesson12.md'
+    - '9COT1/lesson13.md'
+    - '9COT1/lesson14.md'
+    - '9COT1/lesson15.md'
+    - '9COT1/lesson16.md'
+    - '9COT1/lesson17.md'
+    - '9COT1/lesson18.md'
+    - '9COT1/lesson19.md'
+    - '9COT1/lesson20.md'
+    - '9COT1/lesson21.md'
+    - '9COT1/lesson22.md'
+    - '9COT1/lesson23.md'
+    - '9COT1/lesson24.md'
+    - '9COT1/lesson25.md'
   - 10IST2:
     - 10IST2/overview.md
   - 10IST5:
