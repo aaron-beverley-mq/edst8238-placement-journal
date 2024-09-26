@@ -1,51 +1,25 @@
-Mon
-- 10IST5
-- Others observe
-Tues
-- 9COT1
-- 10IST5
-Wed
-- 7TEC6
-Thur
-- 10IST5
-- 9COT1
-- 10IST2
-Fri
-- 7TEC6
-- 10IST2
+# Timetable
 
-Mon B
-- 9COT1
-- 7TEC6
-- 10IST5
-Tues
-- ENG - Obs
-- 7TEC6
-- 9COT1
-Wed
-- 10IST2
-- 8TEC7 - Obs
-- ENG - Theory - Could lead or Obs
-Thurs
-- 9COT1
-- 10IST5
-- 10IST2
-Fri
-- 7TEC6
-- 10IST2
+## Week A
+| Period   | Mon                                                 | Tues                                                         |   Wed                                               |  Thurs                                                | Friday                                                       |
+| :--------: | :---------------------------------------------------: | :------------------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------------------: |
+| 1        | 8:50 - 9:55<br>[10IST5](../10IST5/overview.md) (D06) | 8:50 - 9:55<br>9ITEN26<br>Observe (B03)                      | 8:50 - 9:55                                         | 8:50 - 9:55<br>8TEC7<br>Observe (B04)                 | 8:50 - 9:55<br>[8TEC6](../8TEC6/overview.md)<br>Observe (B03) |
+| 2        | 10:00 - 11:00                                       | 10:00 - 10:50<br>[9COT1](../9COT1/overview.md) (D06)          | 10:00 - 11:00                                       | 10:00 - 11:00<br>[10IST2](../10IST2/overview.md) (D06) | 10:00 - 11:00<br>[7TEC6](../7TEC6/overview.md) (B03)          |
+| Recess   | 11:00 - 11:20                                       | 10:50 - 11:10                                                | 11:00 - 11:20<br>Duty                               | 11:00 - 11:20                                         | 11:00 - 11:20                                                |
+| 3        | 11:20 - 12:20<br>9ITEN26<br>Observe (B03)           | 11:10 - 12:00                                                | 11:20 - 12:20<br>[7TEC6](../7TEC6/overview.md) (B06) | 11:20 - 12:20<br>[10IST5](../10IST5/overview.md) (D06) | 11:20 - 12:20<br>Yr8A9 (B04)                                 |
+| 4        | 12:25 - 1:25<br>7TEC6<br>Observe (B04)              | 12:05 - 12:55<br>[10IST5](../10IST5/overview.md) (D06)        | Lunch 1<br>12:20 - 12:40                            | 12:25 - 1:25<br>[9COT1](../9COT1/overview.md) (D06)    | 12:25 - 1:25<br>8TEC7<br>Observe                             |
+| Lunch_1  | 1:25 - 1:45                                         | 12:55 - 1:15                                                 | Sport Y7-10                                         | 1:25 - 1:45                                           | 1:25 - 1:45                                                  |
+| Lunch_2  | 1:45 - 2:10<br>Duty                                 | 1:15 - 1:35                                                  | Sport Y7-10                                         | 1:45 - 2:10                                           | 1:45 - 2:10                                                  |
+| 5        | 2:10 - 3:10                                         | 1:35 - 2:30<br>[8TEC6](../8TEC6/overview.md)<br>Observe (B03) | Sport Y7-10                                         | 2:10 - 3:10<br>9ITEN26<br>Observe (B03)               | 2:10 - 3:10<br>[10IST2](../10IST2/overview.md) (D06)          |
 
-- Pseudocode
-- Algorithm
-  - Pseudocode (some calculations and then print)
-    - Flowchart of the same
-  - Binary Selection
-    - 2 numbers (min, max)
-    - Pseudo and flowchart
-  - Multiple selection
-    - Game options (A, B, C, or invalid) output option or invalid, please try again
-    - pseudo and flowchart
-  - Loops
-    - while (pretest, eg playflag) and for-next (sum or avg of numbers)
-    - pseudocode, flowcharts
-- Python
-  - 
+## Week B
+| Period  |   Mon                                                    |  Tues                                                    |   Wed                                                   |  Thurs                                                   | Friday                                                   |
+| :-------: | :--------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: |
+| 1       | 8:50 - 9:55                                              | 8:50 - 9:55<br>9ITEN26<br>Observe (B03)                  | 8:50 - 9:55<br>[10IST2](../10IST2/overview.md)<br>(D06) | 8:50 - 9:55<br>[9COT1](../9COT1/overview.md) <br>(DO6)   | 8:50 - 9:55                                              |
+| 2       | 10:00 - 11:00<br>[9COT1](../9COT1/overview.md) <br>(DO6) | 10:00 - 10:50<br>[7TEC6](../7TEC6/overview.md)<br>(B04)  | 10:00 - 11:00<br>8TEC7<br>Observe<br>(P1)                          | 10:00 - 11:00                                            | 10:00 - 11:00<br>[7TEC6](../7TEC6/overview.md)<br>(B04)  |
+| Recess  | 11:00 - 11:20                                            | 10:50 - 11:10                                            | 11:00 - 11:20                                           | 11:00 - 11:20                                            | 11:00 - 11:20                                            |
+| 3       | 11:20 - 12:20<br>[7TEC6](../7TEC6/overview.md)<br>(B04)  | 11:10 - 12:00<br>[9COT1](../9COT1/overview.md) <br>(DO6) | 11:20 - 12:20<br>9ITEN26<br>CoTeach<br> (B03)               | 11:20 - 12:20<br>[8TEC6](../8TEC6/overview.md)<br>Observe<br>(B03)  | 11:20 - 12:20<br>[8TEC6](../8TEC6/overview.md)<br>Observe<br>(B03)  |
+| 4       | 12:25 - 1:25<br>Duty                                     | 12:05 - 12:55                                            | Lunch 1<br>12:20 - 12:40<br>Duty                        | 12:25 - 1:25<br>[10IST5](../10IST5/overview.md)<br>(D06) | 12:25 - 1:25<br>[10IST2](../10IST2/overview.md)<br>(D06) |
+| Lunch 1 | 1:25 - 1:45                                              | 12:55 - 1:15                                             | Sport Y7-10                                             | 1:25 - 1:45                                              | 1:25 - 1:45                                              |
+| Lunch 2 | 1:45 - 2:10                                              | 1:15 - 1:35                                              | Sport Y7-10                                             | 1:45 - 2:10                                              | 1:45 - 2:10                                              |
+| 5       | 2:10 - 3:10<br>[10IST5](../10IST5/overview.md)<br>(D06)  | 1:35 - 2:30<br>[8TEC6](../8TEC6/overview.md)<br>Observe<br>(B03)    | Sport Y7-10                                             | 2:10 - 3:10<br>[10IST2](../10IST2/overview.md)<br>(D06)  | 2:10 - 3:10<br>8TEC7<br>Observe<br>(P1)                             |

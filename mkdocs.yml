@@ -15,14 +15,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: teal
+      primary: deep purple
       accent: purple
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: teal
-      accent: lime
+      primary: deep purple
+      accent: purple
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -59,7 +59,6 @@ nav:
     - 'preparations/paperwork.md'
     - 'preparations/timetable.md'
     - 'preparations/expectations.md'
-
   - Standards:
     - 'standards/standard1.md'
     - 'standards/standard2.md'
@@ -68,11 +67,23 @@ nav:
     - 'standards/standard5.md'
     - 'standards/standard6.md'
     - 'standards/standard7.md'
-  - CT Lesson Plans:
-    - lesson_plans/9COT1/overview.md
-    - lesson_plans/9COT1/lesson1.md
-  - ICT Lesson Plans:
-    - lesson_plans/10IST2/overview.md
+  - 9COT1:
+    - '9COT1/overview.md'
+    - '9COT1/lesson-plans.md'
+    - '9COT1/lesson1.md'
+  - 10IST2:
+    - 10IST2/overview.md
+  - 10IST5:
+    - 10IST5/overview.md
+  - 7TEC6:
+    - '7TEC6/overview.md'
+  - 8TEC6:
+    - '8TEC6/overview.md'
+  - CT Syllabus:
+    - syllabus/stage5/computing-technology/analysing-data/dbms.md
+    - syllabus/stage5/computing-technology/software-development/games-simulations-revision.md
+  - IST Syllabus:
+    - syllabus/stage5/computing-technology/software-development/games-simulations-revision.md
 
 copyright: |
   &copy; 2024 <a href="https://github.com/aaron-beverley-mq" target="_blank" rel="noopener">Aaron Beverley</a>
