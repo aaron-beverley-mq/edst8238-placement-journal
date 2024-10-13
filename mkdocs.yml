@@ -68,7 +68,6 @@ nav:
     - 'standards/standard7.md'
   - 9COT1:
     - '9COT1/overview.md'
-    - '9COT1/lesson-plans.md'
     - '9COT1/lesson1.md'
     - '9COT1/lesson2.md'
     - '9COT1/lesson3.md'
@@ -96,8 +95,10 @@ nav:
     - '9COT1/lesson25.md'
   - 10IST2:
     - 10IST2/overview.md
+    - 10IST2/lesson1.md
   - 10IST5:
     - 10IST5/overview.md
+    - 10IST5/lesson1.md
   - 7TEC6:
     - '7TEC6/overview.md'
   - 8TEC6:
