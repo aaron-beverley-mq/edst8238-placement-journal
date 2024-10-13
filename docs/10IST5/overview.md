@@ -62,3 +62,16 @@
 ### Resources
 - Adobe Animate
 - Google Classroom
+
+
+### Lesson Sequence
+| Lesson | Description |
+| ---- | ---- |
+| L1 | Syllabus Outcome Review + Algorithms |
+| L2 | Algorithms: Sequence, Selection, Repetition |
+| L3 | Python: Conditionals, Loops, Data Structures |
+| L4 | Animation Review |
+| L5 | Animation Review |
+| L6 | Exam or Weakest areas from review |
+| L7 | Exam or Weakest areas from review |
+| L8 | Exam or Weakest areas from review |
