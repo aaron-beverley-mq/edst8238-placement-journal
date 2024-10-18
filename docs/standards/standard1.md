@@ -12,10 +12,8 @@
 
 ## TASK 1.1.1, 1.2.1, 1.3.1, 1.5.1 Tracking System
 Devise and implement a tracking system and record inidvidual student's learning.
-!!! note ""
-    My approach to this is to develop a class observation and tracking system called [Cradle](https://github.com/aaron-beverley-mq/Cradle.Client). As I will be teaching software engineering subjects the code will be made public for the students to see and understand some of the principles that they will be taught. An alternative is to try and run Canvas LMS as it is open source.
 
-Due to time constraints I have not been able to get my idea able implemented. I have switched to recording a daily log of activities, observations, tasks, reflections, feedback and teachers I have spoken with or worked with. This is all maintained in a private [Obsidian](https://obsidian.md/) vault.
+I am using Obsidian to maintain a private daily log of activities, observations, tasks, reflections, feedback and teachers I have spoken with or worked with.
 
 ### 1.6.1 Demonstrate broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disability.
 See [Standard 7](./standard7.md) Understanding the setting
