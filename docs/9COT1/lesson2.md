@@ -1,22 +1,23 @@
 # Lesson 2 : Intro to Database Systems
+
+## :material-clipboard-text:{ .lg .middle } __Topic__
+### Introduction to Database Systems
+
 <div class="grid cards" markdown>
--   :material-clipboard-text:{ .lg .middle } __Topic__
-
-    ---
-
-    Introduction to Database Systems
 
 -   :material-tape-measure:{ .lg .middle } __Learning Intentions__
 
     ---
 
-    - 
+    - Understand database management systems and differences between databases and spreadsheets
 
 -   :material-bullseye:{ .lg .middle } __Success Criteria__
 
     ---
 
-    - 
+    - Describe the advantages of DBMS and how they differ from spreadsheets
+    - Describe typical uses of databases
+    - Identify entities and relationships in data
 
 </div>
 
