@@ -4,7 +4,7 @@
 
     ---
 
-    Social, Ethical and Legal considerations for data
+    Social, Ethical and Legal considerations for data collection
 
 -   :material-tape-measure:{ .lg .middle } __Learning Intentions__
 

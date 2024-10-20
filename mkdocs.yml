@@ -51,7 +51,9 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - attr_list
   - md_in_html
-
+extra_css:
+  - stylesheets/extra.css
+  
 nav:
   - index.md
   - Preparations:
@@ -96,15 +98,17 @@ nav:
   - 10IST2:
     - 10IST2/overview.md
     - 10IST2/lesson1.md
+    - 10IST2/lesson2.md
   - 10IST5:
     - 10IST5/overview.md
     - 10IST5/lesson1.md
+    - 10IST5/lesson2.md
   - 7TEC6:
     - '7TEC6/overview.md'
   - 8TEC6:
     - '8TEC6/overview.md'
   - CT Syllabus:
-    - syllabus/stage5/computing-technology/analysing-data/dbms.md
+    - syllabus/stage5/computing-technology/enterprise-information-systems/analysing-data.md
     - syllabus/stage5/computing-technology/software-development/games-simulations-revision.md
   - IST Syllabus:
     - syllabus/stage5/computing-technology/software-development/games-simulations-revision.md

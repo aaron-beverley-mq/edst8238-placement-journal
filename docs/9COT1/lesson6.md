@@ -1,10 +1,11 @@
-# Lesson 2 : Intro to Database Systems
+# Lesson 6 : Building a Database
 <div class="grid cards" markdown>
 -   :material-clipboard-text:{ .lg .middle } __Topic__
 
     ---
 
-    Introduction to Database Systems
+    Building a Database, Familiarity with the tooling
+
 
 -   :material-tape-measure:{ .lg .middle } __Learning Intentions__
 

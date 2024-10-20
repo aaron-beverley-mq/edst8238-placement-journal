@@ -16,7 +16,7 @@
 
     ---
 
-    - 
+    - [CT5-DAT-01](../syllabus/stage5/computing-technology/enterprise-information-systems/analysing-data.md#ct5-dat-01)
 
 -   :material-note-alert:{ .lg .middle } __Assessment__
 
@@ -26,29 +26,35 @@
 
 </div>
 
+### Overview
+Students will develop a comprehensive set of data analysis and database management skills that will enable them to design, implement, and query databases and visualise and interpret data. Students will gain an understanding of the social, ethical, and legal considerations surrounding data collection and use. By mastering practical skills in SQL, database design, and data visualisation tools, students will gain the ability to create and analyse their own datasets effectively. Through this unit, students will develop critical thinking skills in data analysis, gain practical experience with database technologies, and cultivate an understanding of the broader implications of data in society.
+
 ### Introduce the Unit
 
-- Students will design and create a database that:
-	- supports a set of end user data requirements
-	- follows normalisation rules
-	- 
-- Students will learn skills and strategies for managing their project:
-	- create achievable and time bound milestones
-	- create user stories of for small units of work including time estimate
-- Students will gain an understanding of the need to securely manage data and personally identifiable information
-- Students will build upon there data visualisations understanding
-	- 
+- Students will understand:
+    - what is a database management system
+    - that there are multiple different database technologies 
+    - the purpose of storing data in different formats
+- Students will develop skills in database management for relational databases including:
+    - Using Database Definition Language (DDL) to design and manage tables based on entity relationship analysis
+    - Using Database Manipulation Language (DML) to Create, Read, Update, Delete data
+    - Querying data to develop insights and understand how to represent that data visually in meaningful ways
+    - Build a system that supports a set of end user data requirements
+- Develop skills in analysing requirements and designing database systems that model entities and relationships
+- Students will gain an understanding of the need to manage data securely and what data is personally identifiable
+- Students will build upon their data visualisation understanding from the Unit on Data Analysis: Spreadsheets
 
 ### Resources
 - https://sqliteonline.com/
 - https://sqliteviz.com/
+- https://dbeaver.io/
 - Grover, D., & Carr, L. (2023). Computing Technology: A project-based approach. Nelson.
 
 ## Lessons
 | Lesson | Description |
 | ---- | ---- |
 | [L1](lesson1.md)    | PreTest + Data collection                                          |
-| [L2](lesson2.md)    | Introduction to Database Systems                                   |
+| [L2](lesson2.md)    | Introduction to Database Systems and Careers                       |
 | [L3](lesson3.md)    | Database v Spreadsheet comparison using Data collection            |
 | [L4](lesson4.md)    | Social, Ethical and Legal considerations for data                  |
 | [L5](lesson5.md)    | Data Discovery, what data can I find about myself on the Internet? |

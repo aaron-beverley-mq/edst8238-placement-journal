@@ -1,10 +1,14 @@
-# Lesson 2 : Intro to Database Systems
+# Lesson 8 : Database Definition (DDL)
 <div class="grid cards" markdown>
 -   :material-clipboard-text:{ .lg .middle } __Topic__
 
     ---
 
-    Introduction to Database Systems
+    Database Definition (DDL)
+    
+    - Entities
+    - Relationships
+    - ER Diagrams
 
 -   :material-tape-measure:{ .lg .middle } __Learning Intentions__
 
