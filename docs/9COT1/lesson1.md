@@ -13,8 +13,11 @@
 
     - Understand the major areas of databases that will be covered in the unit
     - Describe the various career choices available with using databases
+</div>
 
--   :material-book-open:{ .lg .middle } __Syllabus Content__
+## Syllabus
+<div class="grid cards" markdown>
+-   :material-book-open:{ .lg .middle } __Content__
 
     ---
 
@@ -23,7 +26,7 @@
     - Testing and evaluating
         - Explore interests and careers in analysing data
 
--   :material-map:{ .lg .middle } __Syllabus Outcomes__
+-   :material-map:{ .lg .middle } __Outcomes__
 
     ---
 
@@ -31,6 +34,7 @@
 
 </div>
 
+## Resources
 !!! resources "Resources"
     SQLite
     <ul>
