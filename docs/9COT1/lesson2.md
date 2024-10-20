@@ -1,8 +1,6 @@
-# Lesson 2 : Introduction to Database Systems and Careers
+# Lesson 2 : Introduction to Database Systems
 
-## :material-clipboard-text:{ .lg .middle } __Topic__
-### Introduction to Database Systems and Careers
-
+## Overview
 <div class="grid cards" markdown>
 
 -   :material-tape-measure:{ .lg .middle } __Learning Intentions__
@@ -21,13 +19,39 @@
 
 </div>
 
+## Syllabus
+<div class="grid cards" markdown>
+-   :material-book-open:{ .lg .middle } __Content__
+
+    ---
+
+    - Describe the purpose of analysing data
+    - Describe inputs, storage, transmission, processes and outputs in data analysis
+    - Explore design principles and issues relevant to analysing data, including visualisation principles, data trails and ownership of data
+    - Collect and interpret data adhering to privacy and cybersecurity principles
+    - Compare the usability of data using a spreadsheet or database to analyse the same dataset
+
+-   :material-map:{ .lg .middle } __Outcomes__
+
+    ---
+
+    - [CT5-DAT-01](../syllabus/stage5/computing-technology/enterprise-information-systems/analysing-data.md#ct5-dat-01)
+    - [CT5-DAT-02](../syllabus/stage5/computing-technology/enterprise-information-systems/analysing-data.md#ct5-dat-02)
+
+</div>
+
+## Resources
+
 ## Schedule 
 | Activity                  | Teacher     | Student                                                      | Timing |
 |---------------------------|-------------|------------------------------------------------------------- | ------ |
-| Do Now: To simplify access please bookmark the database tools we will be using <br> - https://sqliteonline.com/ <br> - https://sqliteviz.com/                  |             |                                                              | 5 min  |
-| DBMS and Database Purpose and Uses. Ensure to use academic language and describe. BICS -> CALP     |  Walk through slides           |                                                              | 10 min |
-| Data Collection               |  Describe that we are collecting data on student subjects to later analysis in a database | Students to use google form to enter data |  15 min |
-| Explore the data entered by the students | Share the sheet with the class and discuss what issues they see with the data, what was good or bad about the data entry, how it could be done differently, and whether storing the data this way is effective.  | We do | 10 min  |
-| Venn diagram for book borrowing system | Work through the the example with sample data and the separation | Work through the student data collected to create the entites for student and subject | 15 min |
+| Do Now || Please bookmark the database tools we will be using <br> - https://sqliteonline.com/ <br> - https://sqliteviz.com/         | 5 min  |
+| DBMS and Database Purpose and Uses |  Walk through slides, Ensure to use academic language and describe. BICS -> CALP           |                       | 10 min |
+| Data Collection           |  Describe that we are collecting data on student subjects to later analysis in a database | Students to help identify the attributes we want to use in the google form and then enter data | 20 min |
+| Explore the data entered by the students | Share the sheet with the class and discuss what issues they see with the data, what was good or bad about the data entry, how it could be done differently, and whether storing the data this way is effective. [Activity](../syllabus/stage5/computing-technology/enterprise-information-systems/activity/dataentry.md) | We do | 20 min |
 | Summary of key terms and database vs spreadsheet |  |  | 5 min |
-| Data Collection <ul><li>Get students to enter data about the subjects they are doing in Google Docs</li><li>Discuss the data they need to collect for the data trails</li></ul> | 25 min |
+
+## Reflection
+### Keep Doing
+### Do Better
+### Stop Doing

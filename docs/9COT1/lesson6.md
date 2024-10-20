@@ -1,12 +1,5 @@
-# Lesson 6 : Building a Database
+# Lesson 6 : Building a Database 2, familiarity with the tooling
 <div class="grid cards" markdown>
--   :material-clipboard-text:{ .lg .middle } __Topic__
-
-    ---
-
-    Building a Database, Familiarity with the tooling
-
-
 -   :material-tape-measure:{ .lg .middle } __Learning Intentions__
 
     ---
