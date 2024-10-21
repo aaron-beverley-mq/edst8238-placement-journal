@@ -1,4 +1,4 @@
-# Lesson 2 : Intro to Database Systems
+# Lesson 9 : Database Manipulation (DML)
 <div class="grid cards" markdown>
 -   :material-clipboard-text:{ .lg .middle } __Topic__
 

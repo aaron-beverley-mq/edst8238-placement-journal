@@ -1,4 +1,4 @@
-# Lesson 2 : Intro to Database Systems
+# Lesson 11 : SQL Queries 2
 <div class="grid cards" markdown>
 -   :material-clipboard-text:{ .lg .middle } __Topic__
 
